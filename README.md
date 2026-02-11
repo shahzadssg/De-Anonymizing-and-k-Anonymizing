@@ -1,5 +1,5 @@
 
-# De-Anonymization and k-Anonymization in Subject-Object Knowledge Networks
+# De-Anonymization and $k$-Anonymization in Subject-Object Knowledge Networks
 
 This repository provides Python implementations and an analysis framework for addressing the critical, yet inherently conflicting, challenges of de-anonymization and $k$-anonymization within subject-object knowledge networks. Our work leverages bipartite graph models to represent relationships (e.g., users accessing resources in cloud storage) and offers heuristic algorithms to either strengthen unique identification for security or enhance privacy through group indistinguishability.
 
