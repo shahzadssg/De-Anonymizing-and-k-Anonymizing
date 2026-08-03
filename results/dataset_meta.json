@@ -1,0 +1,10 @@
+{
+  "subjects": 37,
+  "objects": 1824,
+  "edges": 5484,
+  "mean_jaccard": 0.029118042993876304,
+  "distinct_neighbourhoods": 31,
+  "max_degree": 1251,
+  "median_degree": 11,
+  "min_degree": 1
+}

@@ -1,0 +1,10 @@
+{
+  "subjects": 37,
+  "objects": 1776,
+  "edges": 5484,
+  "mean_jaccard": 0.0289531698964694,
+  "source_subjects": 37,
+  "source_objects": 1824,
+  "source_edges": 5484,
+  "source_mean_jaccard": 0.029118042993876304
+}
